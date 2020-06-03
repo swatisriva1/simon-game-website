@@ -1,2 +1,2 @@
 # simon-game-website
-A more fleshed-out website for the Simon game, including a home page, rules, and the game itself. See also https://github.com/swatisriva1/simon-game.git.
+A more fleshed-out website for the Simon game, including a home page, rules, and the game itself. Gained experience creating using and inter-linking multiple .html files to create a multi-page website. Also able to practice using classes and ID's to create specific and selective CSS styling. Basic game page design (HTML/CSS) provided by the App Brewery (https://www.appbrewery.co/p/web-development-course-resources), which I heavily built upon to modify game page and style other pages. See also https://github.com/swatisriva1/simon-game.git.
